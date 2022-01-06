@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## End Crystal PvPサーバーへようこそ!!
 
-You can use the [editor on GitHub](https://github.com/endcrystal-pvp/endcrystal.pvp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+このサーバーはマインクラフトサーバーであり、主にPvPが中心です。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### PvPワールドについて
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+PvPワールドには様々な浮島があります。浮島間は雲をジャンプで飛んでゆくことで、移動できます。
+様々な場所にエンドクリスタルが落ちています。
 
 ```markdown
 Syntax highlighted code block
